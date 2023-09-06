@@ -8,7 +8,7 @@
 FROM ubuntu
 
 # File Author / Maintainer
-MAINTAINER Karthik Gaekwad
+MAINTAINER Better Stack Community
 
 # Install Nginx
 
